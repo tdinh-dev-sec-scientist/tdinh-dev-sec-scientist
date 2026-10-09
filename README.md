@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Truong Dinh (Daniel Dinh)  
 
 🛡️ **Cybersecurity Undergraduate @ University of South Florida** | **Undergraduate Security Researcher** | **CS Teaching Assistant**  
-🎓 **B.S. Cybersecurity @ University of South Florida (GPA: 4.0 / 4.0)**  
+🎓 **B.S. Cybersecurity @ University of South Florida (GPA: 4.0 / 4.0)**  **CompTIA Security+** 
 🌐 [GitHub](https://github.com/tdinh-dev-sec-scientist)  
 
 ---
@@ -44,7 +44,6 @@ I love digging into how attackers hide in plain sight, and building the detectio
 ---
 
 ## 🌱 Currently  
-- Studying for the **CompTIA Security+** certification (targeting completion by end of 2026)  
 - Sharpening data structures & algorithms for technical interviews  
 - Growing **NetWatch SOC** and **Account Access Auditor** as portfolio-ready security tools  
 - Pursuing internships and full-time cybersecurity roles at big tech  
