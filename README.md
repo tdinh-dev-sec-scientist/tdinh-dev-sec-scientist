@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Truong Dinh (Daniel Dinh)  
 
 🛡️ **Cybersecurity Undergraduate @ University of South Florida** | **Undergraduate Security Researcher** | **CS Teaching Assistant**  
-🎓 **B.S. Cybersecurity @ University of South Florida (GPA: 4.0 / 4.0)**  **CompTIA Security+** 
+🎓 **B.S. Cybersecurity @ University of South Florida (GPA: 4.0 / 4.0)** | **CompTIA Security+** |
 🌐 [GitHub](https://github.com/tdinh-dev-sec-scientist)  
 
 ---
