@@ -101,7 +101,6 @@ I'm a **B.S. Cybersecurity** student at the University of South Florida (**GPA 4
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tdinh-dev-sec-scientist&show_icons=true&hide_rank=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdinh-dev-sec-scientist&layout=compact&hide=c%2B%2B,html,css&langs_count=6&hide_border=true&theme=github_dark" alt="Top Languages"/>
 </p>
 
