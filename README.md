@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Truong Dinh (Daniel) 👋</h1>
+<h1 align="center">Hi, I'm Truong Dinh 👋</h1>
 
 <p align="center">
   <b>Cybersecurity Student @ University of South Florida</b> · Detection Engineering · Network Security · Security Research
