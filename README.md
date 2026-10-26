@@ -15,7 +15,7 @@
 
 ## 🛡️ About Me
 
-I'm a **B.S. Cybersecurity** student at the University of South Florida (**GPA 4.0/4.0**, expected May 2028) focused on **detection engineering and network security**. I like taking an attacker technique, reproducing it in a lab, and turning it into detection logic that is tested, measured, and low-noise.
+I'm a **B.S. Cybersecurity** student at the University of South Florida focused on **detection engineering and network security**. I like taking an attacker technique, reproducing it in a lab, and turning it into detection logic that is tested, measured, and low-noise.
 
 - 🎓 **CompTIA Security+ (SY0-701)** · **Google Cybersecurity Professional Certificate**
 - 📘 Working toward **HTB Certified Defensive Security Analyst (CDSA)** — exam Dec 2026
