@@ -1,117 +1,96 @@
+<!-- Truong Dinh's GitHub profile -->
+
 <h1 align="center">Hi, I'm Truong Dinh 👋</h1>
 
 <p align="center">
-  <b>Cybersecurity Student @ University of South Florida</b> · Detection Engineering · Network Security · Security Research
+  <strong>Cybersecurity student at the University of South Florida</strong><br/>
+  Detection Engineering · Cloud Security · Network Security Research
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/tdinh123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://truongd-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
-  <a href="mailto:ddinh1@usf.edu"><img src="https://img.shields.io/badge/Email-ddinh1@usf.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://doi.org/10.5281/zenodo.23029268"><img src="https://img.shields.io/badge/Preprint-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="Preprint"/></a>
+  <a href="https://truongdinh.dev"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:ddinh1@usf.edu"><img src="https://img.shields.io/badge/Email-ddinh1%40usf.edu-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://doi.org/10.5281/zenodo.23029268"><img src="https://img.shields.io/badge/IPv6%20Research-Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" alt="IPv6 research preprint"/></a>
 </p>
 
 ---
 
-## 🛡️ About Me
+## 🛡️ About
 
-I'm a **B.S. Cybersecurity** student at the University of South Florida focused on **detection engineering and network security**. I like taking an attacker technique, reproducing it in a lab, and turning it into detection logic that is tested, measured, and low-noise.
+I'm pursuing a **B.S. in Cybersecurity at USF** with a **4.0 GPA** (expected May 2028). I build detection systems, replay real traffic, and test whether security controls catch the behaviors they claim to catch.
 
-- 🎓 **CompTIA Security+ (SY0-701)** · **Google Cybersecurity Professional Certificate**
-- 📘 Working toward **HTB Certified Defensive Security Analyst (CDSA)** — exam Dec 2026
-- 🔬 Published preprint on **IPv6 covert-channel detection** — 🏆 2nd Place, STEM, APSU Research Symposium; selected for TN Posters at the Capitol
-- 💼 Seeking **cybersecurity internships** (SOC, detection engineering, security engineering)
+- **Focus:** detection engineering, SOC workflows, cloud security, and network defense
+- **Certifications:** CompTIA Security+ (SY0-701) and Google Cybersecurity Professional Certificate
+- **Programs:** HTB SOC Analyst Job-Role Path; Bellini Mentorship Program inaugural cohort
+- **Competition:** perfect score in the solo Dragos CTF 2026, competing against 1,000+ teams in ICS/OT forensics
+- **Research:** 2nd Place, STEM, APSU Research Symposium; selected to present at Tennessee Posters at the Capitol
+- **CDSA:** completed the 7-day practical exam and report in November 2026; result pending
+- **Open to cybersecurity internships** in SOC, detection engineering, and security engineering
 
----
+## 🧪 Featured Projects
 
-## 🧰 Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,java,mysql&perline=8" alt="Languages"/>
-</p>
-
-**Cloud, DevOps & Systems**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,kali,ubuntu,windows,postgres,flask,git&perline=10" alt="Cloud and Systems"/>
-</p>
-
-**Security Tooling**
-
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-3858E9?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-EF8B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scapy-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atomic_Red_Team-B22222?style=for-the-badge"/>
-</p>
-
-**Frameworks & Data Science**
-
-<p>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CIS_Benchmarks-1F4E79?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🖥️ [NetWatch SOC](https://github.com/tdinh-dev-sec-scientist/Netwatch_SOC) — Network Detection & Response Platform
+### [NetWatch SOC](https://github.com/tdinh-dev-sec-scientist/Netwatch_SOC) · Network detection and response
 `Python` `PostgreSQL` `Flask` `Docker` `Suricata` `Splunk`
-- Python IDS with byte-signature DPI for 21 protocols and **18 detectors mapped to 16 MITRE ATT&CK techniques**
-- Detected **6/6 held-out attacks vs. Suricata ET Open's 3/6**, at 1.0 vs. 26.7 false alerts per host-hour
-- Replayed **31M labeled packets** (CSE-CIC-IDS2018); fixing 5 logic bugs cut false positives from **375 → 1.1 per host-hour**
-- Alert-to-incident correlation (**75% reduction**) streamed to Splunk via HEC; **392 tests** in GitHub Actions CI
 
-### 🧪 [Wazuh Detection Engineering Lab](https://github.com/tdinh-dev-sec-scientist/wazuh-detection-engineering-lab) — Home SOC
+- Detected **6/6 held-out attacks** in CSE-CIC-IDS2018 traffic; Suricata ET Open detected 3/6.
+- Built byte-signature DPI for **21 protocols** and 18 detectors mapped to 16 MITRE ATT&CK techniques.
+- Replayed 31M labeled packets and fixed five detection bugs, reducing false alerts from **375 to 1.1 per host-hour** without threshold tuning.
+- Correlated alerts into incidents, reducing alert volume by **75%**.
+
+### [Vorrin](https://github.com/tdinh-dev-sec-scientist/Vorrin) · AWS security auditing and guardrails
+`Python` `AWS` `Terraform` `OPA/Rego` `GitHub Actions` `Amazon Bedrock`
+
+- Built a read-only auditor with **14 IAM, S3, and CloudTrail checks**, including 11 mapped to CIS AWS Foundations.
+- Validated all rules against **98 labeled fixtures** with zero missed findings and zero false positives.
+- Deployed scheduled scans through a read-only cross-account role; release evidence is SHA-256 bound.
+- Shipped an invited-user analyst on Bedrock with constrained outputs, citation allow-lists, Guardrails, and prompt-injection evaluations.
+- [Explore the fixture-backed demo console](https://tdinh-dev-sec-scientist.github.io/Vorrin/console/).
+
+### [Wazuh Detection Engineering Lab](https://github.com/tdinh-dev-sec-scientist/wazuh-detection-engineering-lab) · Home SOC
 `Wazuh` `Sysmon` `Active Directory` `OPNsense` `Suricata` `Atomic Red Team`
-- Segmented 5-VM SOC (OPNsense/Suricata, Server 2025 DC, Windows 11, Wazuh, Kali) with Sysmon and 4688/4104 logging via GPO
-- Emulated 15 attacks across 18 ATT&CK techniques; wrote **23 custom rules** that closed **11 detection gaps**
-- Every rule gated by **78 engine test cases** against a live Wazuh manager on each push
 
-### 🔐 [AWS Access Auditor](https://github.com/tdinh-dev-sec-scientist/account-access-auditor) — Cloud Security Posture Automation
-`Python` `Boto3` `AWS` `pytest`
-- Read-only auditor with **14 IAM/S3/CloudTrail rules** (wildcard policies, missing MFA, stale keys, public buckets)
-- Mapped CIS AWS Foundations into 11 enforceable controls; ships a least-privilege policy that passes its own check
+- Built a segmented **5-VM SOC** and emulated 15 attacks across MITRE ATT&CK techniques.
+- Wrote **23 custom rules** that closed 11 gaps in default detection coverage.
+- Gated rule changes with **78 engine test cases** against a live Wazuh manager.
 
-### 🔎 [BOTSv3 Incident Response Investigation](https://github.com/tdinh-dev-sec-scientist/botsv3-soc-investigation)
+### [The Invisible Tunnel](https://github.com/tdinh-dev-sec-scientist/Ipv6-eh-c2-detection) · IPv6 covert-channel research
+`Python` `Scapy` `scikit-learn` `TensorFlow`
+
+- Built a proof-of-concept IPv6 command-and-control channel in Destination Options padding that evaded BPF, Snort, and DPI in a controlled testbed.
+- Wrote a stateless RFC 8200 detection rule with **zero false positives on 1M real MAWI IPv6 packets**.
+- [Read the Zenodo preprint](https://doi.org/10.5281/zenodo.23029268).
+
+### [BOTSv3 Incident Response Investigation](https://github.com/tdinh-dev-sec-scientist/botsv3-soc-investigation)
 `Splunk` `SPL` `Sysmon` `AWS CloudTrail`
-- Hunted a multi-stage intrusion across 5 Windows/AWS log sources; extracted **8 IOCs** and mapped **13 ATT&CK techniques** with per-stage SPL detections
 
-### 🕵️ [The Invisible Tunnel](https://github.com/tdinh-dev-sec-scientist/Ipv6_Test) — IPv6 Covert Channel Research
-`Scapy` `scikit-learn` `TensorFlow`
-- Proof-of-concept IPv6 C2 channel in Destination Options padding that evaded BPF, Snort, and DPI in a controlled testbed
-- Stateless RFC 8200 rule with **0 false positives on 1M real MAWI IPv6 packets**
-- 📄 [Read the preprint](https://doi.org/10.5281/zenodo.23029268)
+- Investigated **2.8M events**, extracted eight IOCs, mapped 13 ATT&CK techniques, and wrote five detection queries.
 
----
+## 🎓 Experience
 
-## 📊 GitHub Stats
+**Undergraduate Security Researcher, Austin Peay State University** · Dec 2025 to Aug 2026  
+Researched IPv6 covert-channel detection with Dr. James Church; published a Zenodo preprint and presented the work through Tennessee Posters at the Capitol.
+
+**Computer Science Teaching Assistant, Austin Peay State University** · Jan 2026 to May 2026  
+Helped 30+ students with Java debugging, object-oriented programming, and data structures through office hours, lab grading, and study guides.
+
+**Peer Leader, Honors Program, Austin Peay State University** · Jul 2025 to Dec 2025  
+Led 15 course sessions, mentored 30 students one-on-one, and published 16 weekly cybersecurity-awareness posts.
+
+## 🧰 Technical Skills
+
+**Detection and SOC:** Wazuh, Splunk/SPL, Suricata, Sysmon, MITRE ATT&CK, Atomic Red Team, incident response  
+**Cloud and DevSecOps:** AWS, Boto3, Terraform, Docker, GitHub Actions, OPA/Rego, Cosign, Syft/Grype  
+**Systems and networking:** Active Directory, Linux, OPNsense, VMware, TCP/IP, IPv6, Wireshark, Scapy, Nmap  
+**Languages and data:** Python, Bash, PowerShell, SQL, C, Java, pandas, scikit-learn, TensorFlow
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdinh-dev-sec-scientist&layout=compact&hide=c%2B%2B,html,css&langs_count=6&hide_border=true&theme=github_dark" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tdinh-dev-sec-scientist&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdinh-dev-sec-scientist&layout=compact&langs_count=6&hide_border=true&theme=github_dark" alt="Most used programming languages"/>
 </p>
 
 ---
 
-## 🌱 Currently
-
-- Preparing for the **HTB CDSA** exam (HTB Academy SOC Analyst path) and working through HTB Sherlocks
-- Expanding detection coverage in the **Wazuh lab**
-- Practicing data structures & algorithms for technical interviews
-
----
-
-<p align="center"><i>"Find what's hidden. Build what detects it."</i> 🛡️</p>
+<p align="center"><i>Build detections. Test them against evidence.</i> 🛡️</p>
