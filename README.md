@@ -39,6 +39,8 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Austin_Peay_Athletics_logo.svg" height="32" alt="Austin Peay State University logo"/>
+
 <h3>Undergraduate Security Researcher</h3>
 
 <b>Austin Peay State University</b><br/>
@@ -59,6 +61,8 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Austin_Peay_Athletics_logo.svg" height="32" alt="Austin Peay State University logo"/>
 
 <h3>Computer Science Teaching Assistant</h3>
 
