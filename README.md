@@ -103,11 +103,11 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 <h3>Certifications &amp; Programs</h3>
 
 <ul>
-<li><img src="https://img.shields.io/badge/CompTIA-Security%2B-C61C30?style=flat-square&logo=comptia&logoColor=white" alt="CompTIA Security+ logo"/> <sub>Oct 2026</sub></li>
-<li><img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google logo"/> <sub>Aug 2025</sub></li>
-<li><img src="https://img.shields.io/badge/HTB-SOC%20Analyst%20Path-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box logo"/> <sub>Oct 2026</sub></li>
+<li>CompTIA Security+ (SY0-701), Oct 2026</li>
+<li>Google Cybersecurity Professional Certificate, Aug 2025</li>
+<li>HTB SOC Analyst Job-Role Path, Oct 2026</li>
 <li>Bellini Mentorship Program, inaugural cohort</li>
-<li><img src="https://img.shields.io/badge/HTB-CDSA-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box logo"/> <sub>Practical exam completed Nov 2026; result pending</sub></li>
+<li>HTB CDSA practical exam completed Nov 2026; result pending</li>
 </ul>
 
 </td>
