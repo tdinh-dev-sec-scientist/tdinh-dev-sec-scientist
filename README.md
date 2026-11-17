@@ -27,7 +27,7 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 🛡️ CompTIA Security+ (SY0-701) · Google Cybersecurity Professional Certificate<br/>
 🏆 Perfect score, solo competitor in Dragos CTF 2026 (ICS/OT forensics; 1,000+ teams)<br/>
 🔬 2nd Place, STEM, APSU Research Symposium · Selected for Tennessee Posters at the Capitol<br/>
-📘 HTB CDSA 7-day practical exam and report completed Nov 2026 · Result pending<br/>
+📘 HTB Certified Defensive Security Analyst (CDSA) · Earned Nov 2026 after a 7-day practical exam<br/>
 🚀 Interested in detection engineering, SOC, cloud security, and network defense<br/>
 🌱 Currently building tested detections for cloud and network threats
 
@@ -107,7 +107,7 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 <li>Google Cybersecurity Professional Certificate, Aug 2025</li>
 <li>HTB SOC Analyst Job-Role Path, Oct 2026</li>
 <li>Bellini Mentorship Program, inaugural cohort</li>
-<li>HTB CDSA practical exam completed Nov 2026; result pending</li>
+<li>HTB Certified Defensive Security Analyst (CDSA), Nov 2026</li>
 </ul>
 
 </td>
@@ -133,7 +133,7 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-<p align="center">Network IDS with 21-protocol DPI and 18 detectors across 16 ATT&amp;CK techniques.<br/>Detected <b>6/6</b> held-out attacks; reduced false alerts from <b>375 to 1.1 per host-hour</b>.</p>
+<p align="center">Network IDS with 21-protocol DPI and 18 detectors across 17 ATT&amp;CK techniques.<br/>Detected <b>6/6</b> held-out attacks; reduced false alerts from <b>375 to 1.1 per host-hour</b>.</p>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -167,7 +167,7 @@ I'm a Cybersecurity student at the University of South Florida with a **4.0 GPA*
 <img src="https://img.shields.io/badge/Atomic%20Red%20Team-B22222?style=flat-square"/>
 </p>
 
-<p align="center">Five-VM home SOC; 15 attack simulations and <b>23 custom detections</b>.<br/>Closed 11 detection gaps with 78 Wazuh engine test cases.</p>
+<p align="center">Five-VM home SOC; 15 attack simulations and <b>26 custom rules</b>.<br/>Closed 11 detection gaps with 101 engine test cases.</p>
 
 </td>
 <td width="50%" align="center" valign="top">
